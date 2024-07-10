@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cosmo the Space Monkey</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e6e6fa;
+            color: #4b0082;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+        }
+        header {
+            background: #8a2be2;
+            color: #ffffff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #9932cc 3px solid;
+        }
+        header h1 {
+            text-align: center;
+        }
+        .content {
+            margin-top: 20px;
+            background: #d8bfd8;
+            padding: 20px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Cosmo the Space Monkey</h1>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="content">
+            <h2>Welcome to Cosmo's World!</h2>
+            <p>Meet Cosmo, the bravest purple monkey in the galaxy! With his trusty spacesuit and a heart full of curiosity, Cosmo explores the far reaches of space, making new friends and discovering amazing cosmic wonders.</p>
+        </div>
+
+        <div class="content">
+            <h2>Cosmo's Origin Story</h2>
+            <p>Born in a secret laboratory on Earth, Cosmo was no ordinary monkey. His purple fur and extraordinary intelligence made him the perfect candidate for space exploration. After years of training, Cosmo blasted off on his first mission and never looked back!</p>
+        </div>
+
+        <div class="content">
+            <h2>Latest Space Adventure</h2>
+            <p>In his most recent mission, Cosmo visited the rings of Saturn. He surfed on ice particles, made friends with mysterious space creatures, and even found a glowing purple rock that matched his fur! Stay tuned for more of Cosmo's exciting space tales.</p>
+        </div>
+    </div>
+</body>
+</html>
